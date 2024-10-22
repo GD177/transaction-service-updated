@@ -215,6 +215,8 @@ Example Response:
 
 ```json
 {
-  "message": "Installment payment successful."
+  "transactionId": 23,
+  "message": "Installment paid successfully",
+  "success": true
 }
 ```
